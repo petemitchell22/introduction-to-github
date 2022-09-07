@@ -4,3 +4,4 @@
 # <h4> this wil make the header normal
 # <h5> this wil make the header small
 # <h6> this wil make the header smallest
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
